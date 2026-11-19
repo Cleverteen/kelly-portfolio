@@ -1,0 +1,17 @@
+# Vercel
+.vercel/
+
+# Dépendances / journaux
+node_modules/
+npm-debug.log*
+
+# Environnement (secrets)
+.env
+.env.*
+
+# Systèmes / éditeurs
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
